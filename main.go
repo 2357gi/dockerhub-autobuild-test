@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	        fmt.Println("Hello dockerhub")
+	        fmt.Println("Doka Doka Docker Party Time")
 }
